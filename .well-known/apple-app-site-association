@@ -5,6 +5,10 @@
       {
         "appID": "8XV3SUY355.com.balikgames.aidj",
         "paths": ["/music/*"]
+      },
+      {
+        "appID": "8XV3SUY355.com.balikgames.affirmation",
+        "paths": ["/iamworthy"]
       }
     ]
   }
